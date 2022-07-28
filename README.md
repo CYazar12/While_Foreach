@@ -6,8 +6,11 @@ www.patika.dev
 namespace while_foreach
 {
     class Program
+    
     {'''
+    
         static void Main(string[] args)
+        
         {
             Console.WriteLine("Sayi giriniz");
             int sayi = int.Parse(Console.ReadLine());
