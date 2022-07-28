@@ -1,12 +1,12 @@
 www.patika.dev
 # While_Foreach
 
-using System;
+'''using System;
 
 namespace while_foreach
 {
     class Program
-    {
+    {'''
         static void Main(string[] args)
         {
             Console.WriteLine("Sayi giriniz");
