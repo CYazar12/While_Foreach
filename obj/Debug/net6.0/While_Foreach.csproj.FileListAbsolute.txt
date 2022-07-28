@@ -1,0 +1,15 @@
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\bin\Debug\net6.0\While_Foreach.exe
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\bin\Debug\net6.0\While_Foreach.deps.json
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\bin\Debug\net6.0\While_Foreach.runtimeconfig.json
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\bin\Debug\net6.0\While_Foreach.dll
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\bin\Debug\net6.0\While_Foreach.pdb
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\obj\Debug\net6.0\While_Foreach.csproj.AssemblyReference.cache
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\obj\Debug\net6.0\While_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\obj\Debug\net6.0\While_Foreach.AssemblyInfoInputs.cache
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\obj\Debug\net6.0\While_Foreach.AssemblyInfo.cs
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\obj\Debug\net6.0\While_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\obj\Debug\net6.0\While_Foreach.dll
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\obj\Debug\net6.0\refint\While_Foreach.dll
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\obj\Debug\net6.0\While_Foreach.pdb
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\obj\Debug\net6.0\While_Foreach.genruntimeconfig.cache
+C:\Users\celal\Documents\Sites\Pratikler\While_Foreach\obj\Debug\net6.0\ref\While_Foreach.dll
