@@ -5,6 +5,7 @@ www.patika.dev
 
 namespace while_foreach
 {
+    
     class Program
     
     {'''
